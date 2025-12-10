@@ -1,9 +1,6 @@
 # 🌈✨ AdGuard Home Auto Installer  
 ### 🛡️ Chặn quảng cáo toàn mạng • ⚡ Nhanh • 🔒 Bảo mật • 🛠️ Auto Install Script
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Adguard-logo.png/600px-Adguard-logo.png" width="180">
-
----
 
 # 📌 1. Chuẩn bị trước khi cài (CÀI ĐẶT UBUNTU)
 
