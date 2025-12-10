@@ -61,6 +61,23 @@
 ||man88.vip^
 ||www.man88.vip^
 
+! --- ANTI-POPUP JS (CẤM MỞ TAB MỚI) ---
+##+js(aopr, window.open)
+##+js(aopr, open)
+##+js(aopr, _pop)
+##+js(nosiif)
+##+js(nowebrtc)
+
+! --- CHẶN BANNER / IFRAME QUẢNG CÁO ---
+##.ads
+##.ad-item
+##.ad-container
+##div[id*="ads"]
+##div[class*="ads"]
+##iframe[src*="ads"]
+##iframe[src*="man88"]
+##iframe[src*="wm88"]
+
 ||vb88.win^
 ||www.vb88.win^
 
@@ -84,6 +101,7 @@
 
 ||pdi923ds28f.com^
 ||www.pdi923ds28f.com^
+
 
 
 
