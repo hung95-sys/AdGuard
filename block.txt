@@ -34,17 +34,30 @@
 ||track.man88.vip^
 
 ! --- Chặn link tải popup bên ngoài ---
+
+||popads.net^
+||onclickmega.com^
 ||megaonclick.com^
-||adsplay.click^
-||adsplay.media^
 ||onclickmega.net^
 ||fastclick.to^
+||adsplay.click^
+||adsplay.media^
+||popcash.net^
+||doubleclick.net^
+||adclick.gdn^
+||mclick.net^
+||trafficjunky.net^
+
 
 ! --- Chặn CDN bên thứ 3 nhúng quảng cáo ---
 ||adncdn.com^
+||adservice.google.com^
 ||stream-ads-cdn.com^
 ||ads-streaming-cdn.com^
-
+||adnstreamcdn.net^
+||vastcdn.net^
+||streamflowads.com^
+||adx-network.com^
 ||man88.vip^
 ||www.man88.vip^
 
@@ -71,6 +84,7 @@
 
 ||pdi923ds28f.com^
 ||www.pdi923ds28f.com^
+
 
 
 
