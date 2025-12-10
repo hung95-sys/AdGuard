@@ -45,4 +45,5 @@
 ||stream-ads-cdn.com^
 ||ads-streaming-cdn.com^
 
-||man88.vip
+||man88.vip^
+
