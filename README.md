@@ -115,21 +115,24 @@ https://dns.google/dns-query
 
 ```
 https://adaway.org/hosts.txt
-https://raw.githubusercontent.com/hung95-sys/AdGuard/main/block.txt
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 ```
 
 ### ⭐ StevenBlack (tổng hợp mạnh nhất)
 
 ```
-
-
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 ```
 
 ### ⭐ OISD Big (siêu mạnh – chặn sạch nhất)
 
 ```
 https://big.oisd.nl
+```
+
+### ⭐ 
+
+```
+https://raw.githubusercontent.com/hung95-sys/AdGuard/main/block.txt
 ```
 
 ---
