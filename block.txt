@@ -24,6 +24,24 @@
 ||man88.vip/*preroll*
 ||man88.vip/*vast*
 ||man88.vip/*adtag*
+
+! --- Chặn domain quảng cáo video (pre-roll) ---
+||man88.win/ads^
+||man88.win/*ads*
+||man88.win/*preroll*
+||man88.win/*vast*
+
+! --- Chặn script quảng cáo ---
+||man88.win/js/ad*
+||man88.win/*/ads/*
+||man88.win/*preroll*
+||man88.win/*vast*
+||man88.win/*adtag*
+||ads-man88.win^
+||track-man88.win^
+||pop.man88cdn.win^
+||cdn-man88-ads.win^
+||adclick.man88.win^
 ! --- Chặn tracking ---
 ||stats.man88.vip^
 ||analytic.man88.vip^
@@ -90,4 +108,5 @@
 ||video.mpcdn.top^
 ||stream.mpcdn.top^
 ||media.mpcdn.top^
+
 
