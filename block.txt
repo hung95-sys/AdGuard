@@ -82,3 +82,12 @@
 ||utm_campaign=cpd8*
 ||static.mpcdn.top^
 ||mpcdn.top^
+||mpcdn.top^
+||*.mpcdn.top^
+||cdnmpcdn.top^
+||vcdnmpcdn.top^
+||player.mpcdn.top^
+||video.mpcdn.top^
+||stream.mpcdn.top^
+||media.mpcdn.top^
+
