@@ -2,7 +2,6 @@
 ! MAN88.VIP – FULL BLOCKLIST
 ! Tối ưu cho AdGuard Home
 ! ============================
-
 ! --- Chặn popup redirect ---
 ||ads-man88.xyz^
 ||track-man88.xyz^
@@ -12,7 +11,6 @@
 ||onclickmega.com^
 ||popads.net^
 ||doubleclick.net^
-
 ! --- Chặn domain quảng cáo video (pre-roll) ---
 ||man88cdn.com/ads^
 ||man88cdn.com/*ads*
@@ -20,21 +18,17 @@
 ||man88cdn.com/*vast*
 ||adx-network.com^
 ||adservice.google.com^
-
 ! --- Chặn script quảng cáo ---
 ||man88.vip/js/ad*
 ||man88.vip/*/ads/*
 ||man88.vip/*preroll*
 ||man88.vip/*vast*
 ||man88.vip/*adtag*
-
 ! --- Chặn tracking ---
 ||stats.man88.vip^
 ||analytic.man88.vip^
 ||track.man88.vip^
-
 ! --- Chặn link tải popup bên ngoài ---
-
 ||popads.net^
 ||onclickmega.com^
 ||megaonclick.com^
@@ -47,8 +41,6 @@
 ||adclick.gdn^
 ||mclick.net^
 ||trafficjunky.net^
-
-
 ! --- Chặn CDN bên thứ 3 nhúng quảng cáo ---
 ||adncdn.com^
 ||adservice.google.com^
@@ -60,48 +52,22 @@
 ||adx-network.com^
 ||man88.vip^
 ||www.man88.vip^
-
-! --- ANTI-POPUP JS (CẤM MỞ TAB MỚI) ---
-##+js(aopr, window.open)
-##+js(aopr, open)
-##+js(aopr, _pop)
-##+js(nosiif)
-##+js(nowebrtc)
-
-! --- CHẶN BANNER / IFRAME QUẢNG CÁO ---
-##.ads
-##.ad-item
-##.ad-container
-##div[id*="ads"]
-##div[class*="ads"]
-##iframe[src*="ads"]
-##iframe[src*="man88"]
-##iframe[src*="wm88"]
-
 ||vb88.win^
 ||www.vb88.win^
-
 ||vivu88.net^
 ||www.vivu88.net^
-
 ||k88.club^
 ||www.k88.club^
-
 ||gbong.com^
 ||www.gbong.com^
-
 ||lu88.pro^
 ||www.lu88.pro^
-
 ||vsbet191.com^
 ||www.vsbet191.com^
-
 ||vin88.vip^
 ||www.vin88.vip^
-
 ||pdi923ds28f.com^
 ||www.pdi923ds28f.com^
-
 ||789.club^
 ||api.789.club^
 ||img.789.club^
@@ -111,30 +77,8 @@
 ||qc-img.com^
 ||qc-img.net^
 ||qc-img.xyz^
-
 ||*$image,domain=rophim.*,third-party
 ||*campaign=cpd8utm^
 ||utm_campaign=cpd8*
-
-
-
-rophim.*##img[src*="man88"]
-rophim.*##img[src*="789"]
-rophim.*##img[src*="88win"]
-rophim.*##img[src*="vpromolink"]
-rophim.*##img[src*="promo"]
-
-rophim.*##a[href*="man88"]
-rophim.*##a[href*="789"]
-rophim.*##a[href*="88win"]
-rophim.*##a[href*="casino"]
-rophim.*##a[href*="vpromolink"]
-
-
-
-
-
-
-
-
-
+||static.mpcdn.top^
+||mpcdn.top^
