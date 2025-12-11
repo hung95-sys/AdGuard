@@ -31,21 +31,36 @@
 ||man88.win/*preroll*
 ||man88.win/*vast*
 
+! --- Chặn popup redirect ---
+||ads-man88.win^
+||track-man88.win^
+||pop.man88cdn.win^
+||cdn-man88-ads.win^
+||adclick.man88.win^
+
 ! --- Chặn script quảng cáo ---
 ||man88.win/js/ad*
 ||man88.win/*/ads/*
 ||man88.win/*preroll*
 ||man88.win/*vast*
 ||man88.win/*adtag*
+
 ||ads-man88.win^
 ||track-man88.win^
 ||pop.man88cdn.win^
 ||cdn-man88-ads.win^
 ||adclick.man88.win^
+
 ! --- Chặn tracking ---
 ||stats.man88.vip^
 ||analytic.man88.vip^
 ||track.man88.vip^
+
+! --- Chặn tracking ---
+||stats.man88.win^
+||analytic.man88.win^
+||track.man88.win^
+
 ! --- Chặn link tải popup bên ngoài ---
 ||popads.net^
 ||onclickmega.com^
@@ -108,5 +123,6 @@
 ||video.mpcdn.top^
 ||stream.mpcdn.top^
 ||media.mpcdn.top^
+
 
 
