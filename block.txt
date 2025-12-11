@@ -102,6 +102,23 @@
 ||pdi923ds28f.com^
 ||www.pdi923ds28f.com^
 
+||789.club^
+||api.789.club^
+||img.789.club^
+||cdn.789.club^
+||88cdn.*^
+||qc-img.*^
+||qc-img.com^
+||qc-img.net^
+||qc-img.xyz^
+
+||*$image,domain=rophim.*,third-party
+||*campaign=cpd8utm^
+||utm_campaign=cpd8*
+
+
+
+
 
 
 
