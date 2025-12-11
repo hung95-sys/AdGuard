@@ -118,6 +118,17 @@
 
 
 
+rophim.*##img[src*="man88"]
+rophim.*##img[src*="789"]
+rophim.*##img[src*="88win"]
+rophim.*##img[src*="vpromolink"]
+rophim.*##img[src*="promo"]
+
+rophim.*##a[href*="man88"]
+rophim.*##a[href*="789"]
+rophim.*##a[href*="88win"]
+rophim.*##a[href*="casino"]
+rophim.*##a[href*="vpromolink"]
 
 
 
