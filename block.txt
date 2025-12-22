@@ -61,6 +61,12 @@
 ||analytic.man88.win^
 ||track.man88.win^
 
+||man88.win^
+||www.man88.win^
+
+||man88.vip^
+||www.man88.vip^
+
 ! --- Chặn link tải popup bên ngoài ---
 ||popads.net^
 ||onclickmega.com^
@@ -83,8 +89,9 @@
 ||vastcdn.net^
 ||streamflowads.com^
 ||adx-network.com^
-||man88.vip^
-||www.man88.vip^
+
+
+
 ||vb88.win^
 ||www.vb88.win^
 ||vivu88.net^
@@ -123,6 +130,7 @@
 ||video.mpcdn.top^
 ||stream.mpcdn.top^
 ||media.mpcdn.top^
+
 
 
 
