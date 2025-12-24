@@ -90,8 +90,14 @@
 ||streamflowads.com^
 ||adx-network.com^
 
+||www.taikabet.click^
+||taikabet.click^
 
+||www.top.net^
+||top.club^
 
+||www.du88.club^
+||du88.club^
 ||vb88.win^
 ||www.vb88.win^
 ||vivu88.net^
@@ -130,6 +136,7 @@
 ||video.mpcdn.top^
 ||stream.mpcdn.top^
 ||media.mpcdn.top^
+
 
 
 
